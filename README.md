@@ -8,6 +8,7 @@
 <div align="center">
   <img src="image/实验一流程图.png" width="600" alt="launch">
 </div>
+
 ### 实验二
 掌握*CUDA C / CUDA C++*，基于多核**CPU**和**GPU**的**异构CUDA编程**模型，CUDA的编程优化，掌握优化CUDA并行计算的应用程序设计
 
