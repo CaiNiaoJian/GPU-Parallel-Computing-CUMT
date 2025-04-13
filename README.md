@@ -12,6 +12,9 @@
 ### 实验二
 掌握*CUDA C / CUDA C++*，基于多核**CPU**和**GPU**的**异构CUDA编程**模型，CUDA的编程优化，掌握优化CUDA并行计算的应用程序设计
 
+<div align="center">
+  <img src="image/实验二流程图.png" width="1000" alt="launch">
+</div>
 ## 项目内容
 
 本项目包含四种不同的卷积实现，展示了从串行到并行，从CPU到GPU的计算性能提升：
